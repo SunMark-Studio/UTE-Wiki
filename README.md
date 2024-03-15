@@ -1,4 +1,4 @@
-# 欢迎来到 **UTE Wiki **!
+# 欢迎来到 UTE Wiki !
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-brightgreen?logo=gitpod&style=flat-square)](https://github.com/SunMark-Studio/UTE-Wiki)  [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/SunMark-Studio/UTE-Wiki/build.yml?style=flat-square&branch=master)](https://github.com/SunMark-Studio/UTE-Wiki/actions/workflows/build.yml)  [![Uptime Robot Status](https://img.shields.io/uptimerobot/status/m781254113-3e3bac467c64fc99eafd383e.svg?style=flat-square)](https://status.ceyase.cn/) [![QQ](https://img.shields.io/badge/QQ-UTE%20Group-blu?style=flat-square&logo=tencent-qq)](https://qm.qq.com/q/UBfHjKXzIC)  [![GitHub watchers](https://img.shields.io/github/watchers/SunMark-Studio/UTE-Wiki.svg?style=social&label=Watch)](https://github.com/SunMark-Studio/UTE-Wiki)  [![GitHub stars](https://img.shields.io/github/stars/SunMark-Studio/UTE-Wiki.svg?style=social&label=Stars)](https://github.com/SunMark-Studio/UTE-Wiki)
 
