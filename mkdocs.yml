@@ -1,0 +1,16 @@
+site_name: UTE Wiki
+site_description: UTE Wiki 用于整合传说之下同人相关的内容，提供知识和帮助。
+site_author: UTE Wiki Team
+site_url: https://ute.ceyase.cn
+strict: false
+
+
+# Repository
+repo_name: 'SunMark-Studio/UTE-Wiki'
+repo_url: 'https://github.com/SunMark-Studio/UTE-Wiki'
+
+# Copyright
+copyright: 'Copyright &copy; 2024 - 2024 UTE Wiki Team'
+
+theme:
+  name: material
